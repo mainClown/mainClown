@@ -11,3 +11,5 @@
 </br>
 </br>
 
+[![mainClown's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainClown)](https://github.com/mainClown/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainClown&layout=compact)](https://github.com/mainClown)
