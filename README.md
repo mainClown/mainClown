@@ -11,6 +11,6 @@
 </br>
 </br>
 
-<div align="center"><!-- [![mainClown's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainClown&hide=stars,commits,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mainClown/github-readme-stats) -->
+<!-- [![mainClown's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainClown&hide=stars,commits,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mainClown/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainClown&show_icons=true&hide_progress=true&theme=synthwave&layout=compact)](https://github.com/mainClown)
-</div>
+
